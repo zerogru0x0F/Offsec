@@ -7,3 +7,5 @@ UDP
 connectionless
 suited for applications that need fast connection (DNS, DHCP, SNMP)
 No handshake
+
+
